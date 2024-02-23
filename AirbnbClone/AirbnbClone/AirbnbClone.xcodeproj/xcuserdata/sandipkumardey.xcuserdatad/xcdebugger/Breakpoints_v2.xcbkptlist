@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "49409803-1010-4676-B88E-0F6A97D7B9EA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D1BFCF7-BADD-4142-8243-FCD8D6B0E290"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AirbnbClone/Core/Explore/View/DestinationSearchView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "DestinationSearchView"
+            landmarkType = "14">
+            <Locations>
+               <Location
+                  uuid = "4D1BFCF7-BADD-4142-8243-FCD8D6B0E290 - 2e0c6f481ae2271e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "property wrapper backing initializer of AirbnbClone.DestinationSearchView.viewModel : AirbnbClone.ExploreViewModel"
+                  moduleName = "AirbnbClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandipkumardey/Documents/Code/Xcode/Clone/AirbnbClone/AirbnbClone/AirbnbClone/Core/Explore/View/DestinationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "20">
+               </Location>
+               <Location
+                  uuid = "4D1BFCF7-BADD-4142-8243-FCD8D6B0E290 - d5ffd1cffa7e2966"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirbnbClone.DestinationSearchView.viewModel.getter : AirbnbClone.ExploreViewModel"
+                  moduleName = "AirbnbClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandipkumardey/Documents/Code/Xcode/Clone/AirbnbClone/AirbnbClone/AirbnbClone/Core/Explore/View/DestinationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "4D1BFCF7-BADD-4142-8243-FCD8D6B0E290 - 93c3f6fe2420dbe4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirbnbClone.DestinationSearchView.viewModel.setter : AirbnbClone.ExploreViewModel"
+                  moduleName = "AirbnbClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandipkumardey/Documents/Code/Xcode/Clone/AirbnbClone/AirbnbClone/AirbnbClone/Core/Explore/View/DestinationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "4D1BFCF7-BADD-4142-8243-FCD8D6B0E290 - edac798ad461cfd5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirbnbClone.DestinationSearchView.viewModel.modify : AirbnbClone.ExploreViewModel"
+                  moduleName = "AirbnbClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandipkumardey/Documents/Code/Xcode/Clone/AirbnbClone/AirbnbClone/AirbnbClone/Core/Explore/View/DestinationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "4D1BFCF7-BADD-4142-8243-FCD8D6B0E290 - 59c3e2942aa52ada"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirbnbClone.DestinationSearchView.viewModel.modify : AirbnbClone.ExploreViewModel with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "AirbnbClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandipkumardey/Documents/Code/Xcode/Clone/AirbnbClone/AirbnbClone/%3Ccompiler-generated%3E"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "4">
+               </Location>
+               <Location
+                  uuid = "4D1BFCF7-BADD-4142-8243-FCD8D6B0E290 - 3afebed2143666c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AirbnbClone.DestinationSearchView.$viewModel.getter : SwiftUI.ObservedObject&lt;AirbnbClone.ExploreViewModel&gt;.Wrapper"
+                  moduleName = "AirbnbClone"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sandipkumardey/Documents/Code/Xcode/Clone/AirbnbClone/AirbnbClone/AirbnbClone/Core/Explore/View/DestinationSearchView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "0">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
