@@ -21,6 +21,8 @@ Messaging: Users can communicate with hosts for inquiries, booking requests, and
 
 Maps Integration: Accommodation listings include a map view to show the location of the property.
 
+https://github.com/sandipkumardey/AirbnbClone/assets/96774612/d7129fe7-fe25-460d-8d89-ce919dcb2367
+
 # Technologies Used
 
 SwiftUI: Primary framework for building user interfaces in iOS apps.
